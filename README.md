@@ -1,3 +1,17 @@
+# API Server
+
+To install and start the API server, run the following commands in the `api-server` directory:
+
+* `npm install`
+* `node server`
+
+# Readable
+
+To install and start the Readable App, run the following commands in the `frontend` directory:
+
+* `npm install` or `yarn install`
+* `npm start` or `yarn start`
+
 # Readable API Server
 
 This is the starter project for the final assessment project for Udacity's Redux course where you will build a content and comment web app. Users will be able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Users will also be able to edit and delete posts and comments.
